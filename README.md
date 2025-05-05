@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm a Junior Front-end developer :)
-<!--
+I'm a Junior Front-end developer who is passionate about creating visually appealing and user friendly interfaces. :)
 **MahmoudMedhat17/MahmoudMedhat17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
